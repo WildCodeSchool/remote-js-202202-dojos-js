@@ -1,0 +1,13 @@
+{
+  "name": "dojos",
+  "version": "1.0.0",
+  "description": "Dojos for the remote spé 22 prom",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jules Grand",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
