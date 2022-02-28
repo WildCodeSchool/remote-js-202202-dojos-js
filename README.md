@@ -25,6 +25,12 @@ An isogram is a word that has no repeating letters, consecutive or non-consecuti
 
 👉 From [Code Wars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
 
+#### Ten minutes walk challenge
+
+You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+👉 From [Code Wars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+
 #### Bird Mountain challenge
 
 A bird flying high above a mountain range is able to estimate the height of the highest peak. Can you?
@@ -103,6 +109,12 @@ Un isogramme est un mot dont aucune lettre ne se répète.
 Implémentez une fonction qui détermine si une chaîne de caractères est un isogramme. Partez du principe que les chaînes vides sont des isogrammes et ignorez la casse.
 
 👉 Issu de [Code Wars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+
+#### Ten minutes walk challenge
+
+Vous vivez à Cartesia où toutes les rues sont alignées parfaitement et où chaque quartier est parfaitement identique en superficie. Vous êtes arrivés 10 minutes trop tôt à un rendez-vous et vous voulez faire une petite marche. La ville propose aux habitants une application permettant de générer une circuit de marche dans la ville. Chaque fois que vous lancez l'appli, elle vous propose des directions à prendre sous la forme d'un tableau de directions (ex : ['n', 's', 'w', 'e']). Chaque lettre vous fait avancer d'un quartier dans la direction donnée et vous savez que vous mettez une minute pour traverser chaque quartier. Créer une fonction qui vous dira si la promenade proposée vous prendra 10 minutes et si elle vous ramenera au point de départ.
+
+👉 Issu de [Code Wars](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 
 #### Bird Mountain challenge
 

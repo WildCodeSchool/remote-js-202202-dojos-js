@@ -1,4 +1,4 @@
-const peakHeight = require("./03-bird-moutain.js");
+const peakHeight = require("./04-bird-moutain.js");
 
 describe("peakHeight", () => {
     it("Should be loaded", () => {
